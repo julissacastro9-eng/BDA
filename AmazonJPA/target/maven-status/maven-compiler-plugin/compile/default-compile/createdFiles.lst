@@ -1,0 +1,5 @@
+Entity/PedidoProducto.class
+com/mycompany/amazonjpa/AmazonJPA.class
+Entity/Producto.class
+Entity/Cliente.class
+Entity/Pedido.class
